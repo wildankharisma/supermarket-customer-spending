@@ -38,3 +38,17 @@ Temuan utama untuk segmentasi & strategi
 - Family Type berpengaruh terhadap preferensi kategori produk (keluarga dengan anak vs single).
 - Purchase Channel menunjukkan intensitas spending yang berbeda; belanja di toko vs online memberikan pola yang bervariasi.
 - Segmentasi pelanggan dapat membantu supermarket untuk menargetkan pelanggan bernilai tinggi dan mengoptimalkan kampanye promosi.
+
+## Tools & Libraries
+Project ini menggunakan beberapa tools & libraries utama dalam Python, antara lain:
+- **Python 3.8+**  
+- **Jupyter Notebook**  
+- **Pandas** → manipulasi & analisis data  
+- **NumPy** → perhitungan numerik  
+- **Matplotlib** → visualisasi data  
+- **Seaborn** → visualisasi data yang lebih interaktif  
+- **SciPy** → perhitungan statistik  
+- **Statsmodels** → analisis statistik lanjutan
+
+## Author
+Wildan Kharisma
