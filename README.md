@@ -1,7 +1,7 @@
 # supermarket-customer-spending
 Capstone Project - Customer Spending Analysis
 
-## Gambaran Umum
+## Overview
 Project ini merupakan **capstone project analisis data** yang berfokus pada perilaku belanja (spending) pelanggan di sebuah supermarket.  
 Tujuannya adalah untuk memahami faktor-faktor utama yang memengaruhi pengeluaran pelanggan dan memberikan insight yang dapat digunakan untuk **strategi marketing** dan **segmentasi pelanggan**.
 
